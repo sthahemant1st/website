@@ -1,2 +1,2 @@
 # website
-This is the first web project i am posting in github
+Practice project using angular and spring boot
